@@ -1,0 +1,37 @@
+What are the best ways to ensure thorough testing in programming?
+https://www.linkedin.com/advice/0/what-best-ways-ensure-thorough-testing-programming-h0xff
+
+How do you use problem solving skills to improve website security?
+https://www.linkedin.com/advice/0/how-do-you-use-problem-solving-skills-improve-website-8bj0c
+
+How can you streamline your programming workflow with advanced HTML scripting tools?
+https://www.linkedin.com/advice/3/how-can-you-streamline-your-programming-workflow-advanced-zjufe
+
+How can you secure your application and maintain a seamless user experience?
+https://www.linkedin.com/advice/3/how-can-you-secure-your-application-maintain-seamless-3kwif
+
+What are the best practices for debugging a mySQLi query that is taking too long to execute?
+https://www.linkedin.com/advice/3/what-best-practices-debugging-mysqli-query-taking-too-subdc
+ 
+What are some tips for debugging performance issues in full-stack development?
+https://www.linkedin.com/advice/0/what-some-tips-debugging-performance-issues-full-stack-zje8c
+ 
+How can you describe your HTML experience in an interview?
+https://www.linkedin.com/advice/1/how-can-you-describe-your-html-experience-interview-zmjsf
+ 
+How can you standardize debugging processes in a team?
+https://www.linkedin.com/advice/1/how-can-you-standardize-debugging-processes-team-skills-programming-fwqje
+ 
+How can you help team members improve code quality and resolve conflicts?
+https://www.linkedin.com/advice/3/how-can-you-help-team-members-improve-code-quality-stxyc
+ 
+How can web developers resolve conflicts with other departments?
+https://www.linkedin.com/advice/1/how-can-web-developers-resolve-conflicts-other-y5nre
+ 
+How can you learn new software development skills while working full time?
+https://www.linkedin.com/advice/1/how-can-you-learn-new-software-development-uh9xf
+ 
+What are the most common code quality issues in monolithic architechture?
+https://www.linkedin.com/advice/1/what-most-common-code-quality-issues-monolithic-ldebf
+ 
+ 
