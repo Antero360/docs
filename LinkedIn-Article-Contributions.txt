@@ -1,3 +1,6 @@
+How can you efficiently determine which parts of your code cause performance issues?
+https://www.linkedin.com/advice/3/how-can-you-efficiently-determine-which-parts-your-lqk6c
+
 What are the best ways to ensure thorough testing in programming?
 https://www.linkedin.com/advice/0/what-best-ways-ensure-thorough-testing-programming-h0xff
 
