@@ -1,3 +1,6 @@
+How can you minimize HTTP requests to boost your site's loading speed?
+https://www.linkedin.com/advice/1/how-can-you-minimize-http-requests-boost-your-sites-eyftf
+
 What do you do when you realize the code editor you are using is no longer popular among web developers?
 https://www.linkedin.com/advice/3/what-do-you-when-realize-code-editor-using-ejzxf
 
